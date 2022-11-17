@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @kainaat0110
-- 📖 I'm currently pursuing IT Engineering fron Don Bosco Institute
+- 📖 I'm currently pursuing IT Engineering from Don Bosco Institute of Technology 
 - 👀 I’m interested in UI/UX Designing
 - 🌱 I’m currently learning C & Java
 - 💞️ I’m looking forward to join in collaboration ahead
