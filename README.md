@@ -3,7 +3,7 @@
 - 👀 I’m interested in UI/UX Designing
 - 🌱 I’m currently learning C & Java
 - 💞️ I’m looking forward to join in collaboration ahead
-- 📫 How to reach me at kainaat0110@gmail.com
+- 📫 You can reach me at kainaat0110@gmail.com
 
 <!---
 kainaat0110/kainaat0110 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
