@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @kainaat0110
 - 📖 I'm currently pursuing IT Engineering from Don Bosco Institute of Technology 
 - 👀 I’m interested in Frontend & UI/UX Designing
-- 🌱 I’m currently DSA in Java
+- 🌱 I’m currently doing DSA in Java
 - 💞️ I’m looking forward to join in collaboration ahead
 - 📫 You can reach me at kainaat0110@gmail.com
 
